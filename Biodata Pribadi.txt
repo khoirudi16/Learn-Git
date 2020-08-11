@@ -4,3 +4,4 @@
 4. TTL : Bantul, 28/05/1995
 5. Jenis Kelamin : Laki-laki
 6. Agama : Islam
+7. Umur : 25 Tahun

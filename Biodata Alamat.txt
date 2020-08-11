@@ -1,6 +1,0 @@
-1. RT : 01
-2. RW : 07
-3. Dusun : Kemorosari 2
-4. Desa : Piyaman
-5. Kecamatan : Wonosari
-6. Kabupaten : Gunungkidul
